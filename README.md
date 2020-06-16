@@ -2,6 +2,7 @@
 It is an AI powered bot playing Doom-game using deep convolutional Q-Learning.
 It is linux based AI powered model,we can save the videos of our AI playing doom and see it improve over time,though it learns very fast.
 It find the best way to complete the level.The environment is from open ai gym.
+In this level the ai must travel through a corridor full of enemies while surviving their attacks and finding the best way to complete the level while attaining high score.
 
 Setup Instructions:
 Please follow these steps to set up the VM: 
