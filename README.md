@@ -4,6 +4,8 @@ It is linux based AI powered model,we can save the videos of our AI playing doom
 It find the best way to complete the level.The environment is from open ai gym.
 In this level the ai must travel through a corridor full of enemies while surviving their attacks and finding the best way to complete the level while attaining high score.
 
+for more:https://gym.openai.com/envs/DoomCorridor-v0/
+
 Setup Instructions:
 Please follow these steps to set up the VM: 
 
