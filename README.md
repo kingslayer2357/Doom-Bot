@@ -25,8 +25,6 @@ Then open a terminal and run:
 
 source demo-env/bin/activate
 
-cd Downloads
-cd P20-Doom
 cd Doom
 python ai.py
 
